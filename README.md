@@ -12,7 +12,7 @@
   - Windows
   - Linux
 ### Ethical Hacking - Tryhackme
-
+  -  <img src="https://tryhackme-badges.s3.amazonaws.com/a1h4ck3rd4n.png" alt="Your Image Badge" />
 ### Hardware Section
   - Computer Maintenance
   - Printer Repair
