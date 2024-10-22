@@ -3,6 +3,3 @@ logo: /assets/img/headshot.png
 description: "The brighter the light the darker the shadow - Berserk" 
 show_downloads: false
 theme: jekyll-theme-minimal
-sass:
-  load_paths:
-    - assets/css
