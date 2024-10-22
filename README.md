@@ -1,16 +1,34 @@
-# Juinor Network Associate🌐 / Web Developer 👨‍💻/ Ethical Hacker 🐱‍👤
-Technical Skills:
-- Data Networking
+# Network Administrator x Ethical Hacker 🐱‍👤
+## Technical Skills:
+### Data Networks
   - MikroTik
+  - Ruijie
+  - Ubiquiti
   - Cisco
-- Web Development
-  - Python
-    - Flask Framework
-- Operating Systems
+### Tools
+  - Wireshark
+  - GNS3
+### Operating Systems
   - Windows
   - Linux
-- Ethical Hacking
-  - TryHackme
+### Ethical Hacking - Tryhackme
+  -  <img src="https://tryhackme-badges.s3.amazonaws.com/a1h4ck3rd4n.png" alt="Your Image Badge" />
+### Hardware Section
+  - Computer Maintenance
+  - Printer Repair
+  - Technical Support
+### Programming Languages
+  - Python
+  - C, C++
+
+
+# Work Experience
+
+
+| Job Position        | Company Name         | Year |
+|:-------------|:------------------|:------|
+| Junior Network Admin    | `LGU Malaybalay, City Administrator-MIS Division`  Casisang, Bukidnon  | August 2024- Present  |
+| Hardware and Network Technician `Intern`          | `LGU Malaybalay` Casisang, Bukidnon  | Feb 2024- May 2024  |
 
 ## Education
 
@@ -22,9 +40,3 @@ Technical Skills:
 
 
 * * *
-## Work Experience
-
-
-| Job Position        | Company Name         | Year |
-|:-------------|:------------------|:------|
-| Junior - Network Associate `OJT`          | `LGU Malaybalay` Casisang, Bukidnon  | Feb 2024- May 2024  |
