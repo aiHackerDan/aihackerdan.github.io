@@ -1,14 +1,9 @@
----
 title: Aidan Ace R. Jumawid
 logo: /assets/img/headshot.png
-description: "The brighter the light the darker the shadow - Berserk"
+description: "The brighter the light the darker the shadow - Berserk" 
 show_downloads: false
 theme: jekyll-theme-minimal
----
-
-<!-- Centering content using HTML -->
-<div style="text-align: center;">
-  <img src="/assets/img/headshot.png" alt="Headshot" style="max-width: 200px;">
-  <h1>Aidan Ace R. Jumawid</h1>
-  <p>  "The brighter the light the darker the shadow - Berserk"   </p>
-</div>
+sass:
+  style: compressed
+  load_paths:
+    - assets/css
